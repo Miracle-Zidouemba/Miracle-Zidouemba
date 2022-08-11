@@ -1,4 +1,4 @@
-hello, I am @Miracle-Zidouemba.
+Nhello, I am @Miracle-Zidouemba.
 I’m interested in web development.
 I’m currently learning JavaScript.
 I’m looking to collaborate with JavaScript web developer.
